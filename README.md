@@ -4,7 +4,7 @@
 
 
 
-<img src="https://github.com/Yikoutian1/Yikoutian1/tree/2f032a68a022f9372225fe3095e5937ad6669f1c/profile-3d-contrib" />
+<img src="https://github.com/Yikoutian1/Yikoutian1/blob/2f032a68a022f9372225fe3095e5937ad6669f1c/profile-3d-contrib/my-github-metrics.svg" />
 
 
 
