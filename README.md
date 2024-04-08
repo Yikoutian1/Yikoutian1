@@ -1,5 +1,4 @@
-### Hey World! 👋
-### Hi there 👋
+### Hello World! 👋
 
 <!--
 **yikoutian1/yikoutian1 is special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
